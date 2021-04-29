@@ -1,2 +1,2 @@
 # battlestar-tokens
-Tiny service to manage authentication and tokens
+Tiny service for managing tokens
